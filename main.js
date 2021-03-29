@@ -6,7 +6,7 @@ const outputText = document.querySelector("#results")
 
 
 
-submitButton.addEventListener("click", submitButtonPressed)
+submit.addEventListener("click", submitPressed)
 
 
 function submitPressed() {
